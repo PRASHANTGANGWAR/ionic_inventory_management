@@ -1,0 +1,7 @@
+{
+  "name": "inventory_management_service",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
