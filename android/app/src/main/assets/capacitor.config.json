@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "inventory_management_service",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
